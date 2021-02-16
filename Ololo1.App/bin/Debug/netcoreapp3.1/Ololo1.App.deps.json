@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ololo1.App/1.0.0": {
+        "runtime": {
+          "Ololo1.App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ololo1.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

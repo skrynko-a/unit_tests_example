@@ -1,0 +1,13 @@
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.exe
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.deps.json
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.runtimeconfig.json
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.runtimeconfig.dev.json
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.dll
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.pdb
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.csprojAssemblyReference.cache
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.AssemblyInfoInputs.cache
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.AssemblyInfo.cs
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.csproj.CoreCompileInputs.cache
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.dll
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.pdb
+C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.genruntimeconfig.cache
