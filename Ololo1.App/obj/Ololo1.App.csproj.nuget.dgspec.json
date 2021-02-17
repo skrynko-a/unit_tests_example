@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skrynko.a\\RiderProjects\\Ololo1\\Ololo1.App\\Ololo1.App.csproj": {}
+    "D:\\Институт\\Курсы\\17.02.2021\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skrynko.a\\RiderProjects\\Ololo1\\Ololo1.App\\Ololo1.App.csproj": {
+    "D:\\Институт\\Курсы\\17.02.2021\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skrynko.a\\RiderProjects\\Ololo1\\Ololo1.App\\Ololo1.App.csproj",
+        "projectUniqueName": "D:\\Институт\\Курсы\\17.02.2021\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj",
         "projectName": "Ololo1.App",
-        "projectPath": "C:\\Users\\skrynko.a\\RiderProjects\\Ololo1\\Ololo1.App\\Ololo1.App.csproj",
-        "packagesPath": "C:\\Users\\skrynko.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skrynko.a\\RiderProjects\\Ololo1\\Ololo1.App\\obj\\",
+        "projectPath": "D:\\Институт\\Курсы\\17.02.2021\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj",
+        "packagesPath": "C:\\Users\\Alroona\\.nuget\\packages\\",
+        "outputPath": "D:\\Институт\\Курсы\\17.02.2021\\unit_tests_example\\Ololo1.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\skrynko.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alroona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.112\\RuntimeIdentifierGraph.json"
         }
       }
     }

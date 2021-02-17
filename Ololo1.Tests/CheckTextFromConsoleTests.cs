@@ -12,9 +12,10 @@ namespace TestProject1
         {
             var result = SimpleClass.CheckTextFromConsole(text);
             Assert.IsFalse(result, "Для значения " +  text + " метод отработал некорректно");
+            Assert.IsFalse(result, "Для значения " +  text + " метод отработал некорректно");
         }
         
-        [TestCase("jjdfhddgdf")]
+        [TestCase("jjdfhddgdfdsa")]
         [Test]
         public void CheckTextFromConsoleByNonEmptyStringTesting(string text)
         {
