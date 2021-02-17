@@ -21,6 +21,7 @@ namespace TestProject1
             var result = SimpleClass.CheckTextFromConsole(text);
             Assert.IsTrue(result, "Для значения " +  text + " метод отработал некорректно");
             Assert.IsTrue(result, "Для значения " +  text + " метод отработал некорректно");
+            Assert.IsTrue(result, "Для значения " +  text + " метод отработал некорректно");
         }
     }
 }
