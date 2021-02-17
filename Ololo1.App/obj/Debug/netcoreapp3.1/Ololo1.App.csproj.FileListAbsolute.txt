@@ -11,3 +11,16 @@ C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo
 C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.dll
 C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.pdb
 C:\Users\skrynko.a\RiderProjects\Ololo1\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.genruntimeconfig.cache
+E:\GIT\unit_tests_example\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.exe
+E:\GIT\unit_tests_example\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.deps.json
+E:\GIT\unit_tests_example\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.runtimeconfig.json
+E:\GIT\unit_tests_example\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.runtimeconfig.dev.json
+E:\GIT\unit_tests_example\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.dll
+E:\GIT\unit_tests_example\Ololo1.App\bin\Debug\netcoreapp3.1\Ololo1.App.pdb
+E:\GIT\unit_tests_example\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.csprojAssemblyReference.cache
+E:\GIT\unit_tests_example\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.AssemblyInfoInputs.cache
+E:\GIT\unit_tests_example\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.AssemblyInfo.cs
+E:\GIT\unit_tests_example\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.csproj.CoreCompileInputs.cache
+E:\GIT\unit_tests_example\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.dll
+E:\GIT\unit_tests_example\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.pdb
+E:\GIT\unit_tests_example\Ololo1.App\obj\Debug\netcoreapp3.1\Ololo1.App.genruntimeconfig.cache

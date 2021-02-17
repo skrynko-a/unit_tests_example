@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.Tests\\Ololo1.Tests.csproj": {}
+    "E:\\GIT\\unit_tests_example\\Ololo1.Tests\\Ololo1.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj": {
+    "E:\\GIT\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj",
+        "projectUniqueName": "E:\\GIT\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj",
         "projectName": "Ololo1.App",
-        "projectPath": "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj",
-        "packagesPath": "C:\\Users\\AlisaSkrynko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.App\\obj\\",
+        "projectPath": "E:\\GIT\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "E:\\GIT\\unit_tests_example\\Ololo1.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AlisaSkrynko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,6 +55,14 @@
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[3.1.12, 3.1.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
@@ -62,21 +70,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\AlisaSkrynko\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\1\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.Tests\\Ololo1.Tests.csproj": {
+    "E:\\GIT\\unit_tests_example\\Ololo1.Tests\\Ololo1.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.Tests\\Ololo1.Tests.csproj",
+        "projectUniqueName": "E:\\GIT\\unit_tests_example\\Ololo1.Tests\\Ololo1.Tests.csproj",
         "projectName": "Ololo1.Tests",
-        "projectPath": "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.Tests\\Ololo1.Tests.csproj",
-        "packagesPath": "C:\\Users\\AlisaSkrynko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.Tests\\obj\\",
+        "projectPath": "E:\\GIT\\unit_tests_example\\Ololo1.Tests\\Ololo1.Tests.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "E:\\GIT\\unit_tests_example\\Ololo1.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AlisaSkrynko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -88,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj": {
-                "projectPath": "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj"
+              "E:\\GIT\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj": {
+                "projectPath": "E:\\GIT\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj"
               }
             }
           }
@@ -131,6 +139,14 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
@@ -138,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\AlisaSkrynko\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\1\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
