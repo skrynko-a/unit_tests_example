@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "J5jQYcjgykRwRA77cjBHSuPeWBEe56zlXJrAgUMA5HfDloAL9KEw/5VTkhVdLfhRXqmPptzb5vC/q9CnyfOwrg==",
+  "dgSpecHash": "nyhwDuGpgXPLz/1G/gGtovIKtkP5XO+xbAuKoj+P54u1MUqyOunI16Ko6Oo4etfTyLRZo7lUsKMksYGj0A9agA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skrynko.a\\RiderProjects\\Ololo1\\Ololo1.App\\Ololo1.App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AlisaSkrynko\\Documents\\Новая папка (3)\\unit_tests_example\\Ololo1.App\\Ololo1.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlisaSkrynko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\AlisaSkrynko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
