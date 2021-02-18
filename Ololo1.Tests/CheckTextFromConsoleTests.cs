@@ -22,6 +22,7 @@ namespace TestProject1
             Assert.IsTrue(result, "Для значения " +  text + " метод отработал некорректно");
             Assert.IsTrue(result, "Для значения " +  text + " метод отработал некорректно");
             Assert.IsTrue(result, "Для значения " +  text + " метод отработал некорректно");
+            Assert.IsTrue(result, "Для значения " +  text + " метод отработал некорректно");
         }
     }
 }
