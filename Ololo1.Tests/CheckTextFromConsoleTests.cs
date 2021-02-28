@@ -14,7 +14,7 @@ namespace TestProject1
             Assert.IsFalse(result, "Для значения " +  text + " метод отработал некорректно");
         }
         
-        [TestCase("jjdfhddgdf")]
+        [TestCase("testtest")]
         [Test]
         public void CheckTextFromConsoleByNonEmptyStringTesting(string text)
         {

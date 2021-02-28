@@ -1,5 +1,8 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4996619a_002D9222_002D4be8_002Da138_002D64cd93c661dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckTextFromConsoleByNullTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1df9d08b_002D91cf_002D4493_002D8eda_002Deff16fe07904/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CheckTextFromConsoleTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;9286C95D-FB54-4C4B-BD56-8B6FA0298EBC/f:CheckTextFromConsoleTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4996619a_002D9222_002D4be8_002Da138_002D64cd93c661dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckTextFromConsoleByNullTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::9286C95D-FB54-4C4B-BD56-8B6FA0298EBC::.NETCoreApp,Version=v3.1::TestProject1.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
